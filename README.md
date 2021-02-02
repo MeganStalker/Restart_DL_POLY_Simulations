@@ -2,7 +2,7 @@
 
 This script restarts DL_POLY simulations - enabling simulations to be run over multiple jobs.
 
-# This script:
+## This script:
 
 1. Creates consecutively numbered directories (save$numdir), copies and zips the relevant files into the directories
 2. Edits the CONTROL file to enable the simulation to restart from a previous simulation 
