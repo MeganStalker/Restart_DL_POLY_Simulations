@@ -12,7 +12,8 @@ This script is designed to restart DL_POLY simulations - enabling simulations to
 
 ## Notes:
 
-1. This script is designed to submit jobs on the Bath HPC. To restart DL_POLY simulations on any HPC please change the name of the job submission script on line 86.
+This script is designed to submit jobs to the Bath HPC. 
+To restart DL_POLY simulations on any HPC please change the name of the job submission script on line 86.
 
 * Line 86:
 
