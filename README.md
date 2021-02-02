@@ -1,6 +1,6 @@
 # Restart DL_POLY Simulations
 
-This script is designed to restart DL_POLY simulations - enabling simulations to be run over multiple jobs.
+This script restarts DL_POLY simulations - enabling simulations to be run over multiple jobs.
 
 # This script:
 
